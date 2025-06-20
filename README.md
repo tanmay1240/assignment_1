@@ -19,10 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 
 Here is the output of my code:
 
-![Output](https://github.com/tanmay1240/assignment_1/blob/main/images/Screenshot%202025-06-16%20213049.png)
+![Output]([https://github.com/tanmay1240/assignment_2/blob/main/Screenshot%202025-06-20%20082435.png])
 
 ## 📸 Screenshot
 
 Here is the output of my code:
 
-![ screenshot of the app displaying both asset and network images](https://github.com/tanmay1240/assignment_1/blob/main/images/Screenshot%202025-06-16%20213139.png)
+![ screenshot of the app displaying both asset and network images](https://github.com/tanmay1240/assignment_2/blob/main/Screenshot%202025-06-20%20082501.png)
