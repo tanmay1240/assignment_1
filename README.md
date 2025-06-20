@@ -23,6 +23,6 @@ Here is the output of my code:
 
 ## 📸 Screenshot
 
-Here is the output of my code:
+Here is a part of code on android studio:
 
 ![ screenshot of the app displaying both asset and network images](https://github.com/tanmay1240/assignment_2/blob/main/Screenshot%202025-06-20%20082501.png)
