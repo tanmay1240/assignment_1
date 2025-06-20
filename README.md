@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Here is the output of my code:
 
-![Output]([https://github.com/tanmay1240/assignment_2/blob/main/Screenshot%202025-06-20%20082435.png])
+![Output](https://github.com/tanmay1240/assignment_2/blob/main/Screenshot%202025-06-20%20082435.png)
 
 ## 📸 Screenshot
 
