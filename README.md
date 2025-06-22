@@ -1,4 +1,4 @@
-# assignment_1
+# CardConnect
 
 A new Flutter project.
 
